@@ -1,0 +1,9 @@
+flask>=3.0
+numpy
+streamlink
+yt-dlp
+chat-downloader
+# optional, installed separately by INSTALL.bat / START.bat (the app works without them):
+#   faster-whisper   - transcription on your PC (Groq cloud transcription works without it)
+#   opencv-python    - automatic webcam/facecam detection
+#   pytest           - only to run the test suite
